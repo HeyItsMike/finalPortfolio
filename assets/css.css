@@ -1,0 +1,21 @@
+body {background-color: lightblue;}
+
+.centerPicture {
+    object-fit: cover;
+  
+    width: 300px;
+    height: 337px;
+    margin: auto;
+    display: block;
+  }
+  
+.name {
+    font-family: 'Dancing Script', cursive;
+}
+
+.paragraph {
+    font-family: 'Josefin Sans', sans-serif;
+}
+ 
+
+
